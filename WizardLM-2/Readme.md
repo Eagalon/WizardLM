@@ -66,9 +66,7 @@ We report the win:loss rate without tie:
 <b>WizardLM-2</b>  adopts the prompt format from <b>Vicuna</b> and supports **multi-turn** conversation. The prompt should be as following:
 
 ```
-A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, 
-detailed, and polite answers to the user's questions. USER: Hi ASSISTANT: Hello.</s>
-USER: Who are you? ASSISTANT: I am WizardLM.</s>......
+A chat between a curious user and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the user's questions. USER: Hi ASSISTANT: Hello.</s>USER: Who are you? ASSISTANT: I am WizardLM.</s>......
 ```
 
 <b> Inference WizardLM-2 Demo Script</b>
